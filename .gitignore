@@ -1,0 +1,8 @@
+.DS_Store
+*.pyc
+*.py[cod]
+*.log
+login-accounts/
+*.pyc
+.DS_Store
+*.pyc
